@@ -12,3 +12,5 @@ Current Features:
 I’m currently learning the DAO system, it's flaws and security measures, smart contracts development and will continue improving this project as I gain more knowledge and skills.
 
 Status: Work-in-progress. Feedback and suggestions welcome!
+
+[ click here to view the contract code](./DAOvoting.sol)
